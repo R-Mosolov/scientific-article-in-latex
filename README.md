@@ -1,1 +1,1 @@
-# scientific-article-in-latex
+# Scientific Article in LaTeX

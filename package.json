@@ -1,0 +1,23 @@
+{
+  "name": "scientific-article-in-latex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Mosolov/scientific-article-in-latex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-Mosolov/scientific-article-in-latex/issues"
+  },
+  "homepage": "https://github.com/R-Mosolov/scientific-article-in-latex#readme",
+  "dependencies": {
+    "latex.js": "^0.12.4"
+  }
+}
